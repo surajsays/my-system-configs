@@ -1,0 +1,4 @@
+[Default Applications]
+x-scheme-handler/terminal=kitty.desktop
+
+[Added Associations]

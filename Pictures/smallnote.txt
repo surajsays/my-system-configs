@@ -1,0 +1,10 @@
+if you add your wallpaper in Wallpapers folder just run the python script in Wallpaper folder
+it will print all names of wallpapers available in Wallpaper folder
+
+copy those names and paste in .config/polyabar/scripts/wallpaper_picker.sh script
+
+
+use Ctrl+Mod+W   to change wallpapers randomly
+or left click on snowflex icon on top right to choose wallpaper
+
+right click on same icon to toggle night mode make sure i have  installed redshift and also chmod +x all .sh scripts(make it executable):)  

@@ -1,0 +1,522 @@
+sw_volume: 68
+audio_device_state:1:PulseAudio Output
+state: play
+current: 372
+time: 125.016
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:music/Mausam.m4a
+1:music/Chaahata_Dil_Tumko_Full_Song_Shaapit_isESoAZxcok_140.mp3
+2:music/Meri Aashiqui - Arijit Singh, Palak Muchhal.m4a
+3:music/Kabhi_Jo_Baadal_Barse.mp3
+4:music/Glorious_Purpose_Natalie_Holt_Theme_from_Loki_S02E06_Gl_uK0b3Jg55O0.m4a
+5:Paaro.m4a
+6:music/mtvarijit.m4a
+7:music/Bulleya   Papon.m4a
+8:music/Bum Bum Bole - Shaan, Aamir Khan.m4a
+9:music/Bye Bye Bye    NSYNC.m4a
+10:music/Deva Shree Ganesha   Ajay Gogavale.m4a
+11:music/fatafati.m4a
+12:music/Galliyan Returns Ek Villain Returns 320 Kbps.mp3
+13:music/Galliyan Returns.m4a
+14:music/Glorious_Purpose_Natalie_Holt_Theme_from_Loki_S02E06_Gl_uK0b3Jg55O0 (copy).m4a
+15:music/Gunaah_mCnX3_Xz5G4_140.mp3
+16:music/TUM HI HO - ARIJIT SINGH _  MTV UNPLUGGED VERSION ☄️.m4a
+17:music/Ziddi_Dil_Full_Video_MARY_KOM_Feat_Priyanka_Chopra_Vish_puKD3nkB1h4.mp3
+18:music/Jiyein Kyun   Papon, Pritam, Jaideep Sahni.m4a
+19:music/_Piya_Aaye_Na_Aashiqui_2_Full_Song_with_Lyrics_Aditya_R_2bMEe0UYa8E.mp3
+20:music/kk/01. Maahi.mp3
+21:music/kk/Dil Ibaadat - Tum Mile 320Kbps.mp3
+22:music/mp3/_Chaar_Kadam_Full_Song_with_LYRICS_PK_Sushant_Singh_Raj_SqEcZrfcfoo.mp3
+23:music/mp3/''Tujhe_Bhula_Diya_Full_Song_Anjaana_Anjaani__Ranbir_Kapoor,_Priyanka.mp3
+24:music/mp3/01 - Tum Hi Ho - PagalSongs.com.mp3
+25:music/mp3/01 Bulleya (Reprise) Arijit Singh - 190Kbps.mp3
+26:music/mp3/01. Maahi.mp3
+27:music/mp3/02 - Tu Mila To Haina - De De Pyaar De (2019).mp3
+28:music/mp3/02 Ji Huzoori - Ki And Ka (Mithoon) 190Kbps.mp3
+29:music/mp3/02 Tu Zaroori - 190kbps.mp3
+30:music/mp3/03 - Kalank - Kalank (2019).mp3
+31:music/mp3/03 Kabira - Arjit Singh - MTV Unplugged [PagalWorld.com].mp3
+32:music/mp3/03 Khul Kabhi (Haider) -320Kbps [PagalWorld.com].mp3
+33:music/mp3/03 Safar - Jab Harry Met Sejal (Arijit Singh) 320Kbps.mp3
+34:music/mp3/03 Sun Le Zara - Singham Returns (PagalWorld.com) 320Kbps.mp3
+35:music/mp3/03 Tu Chale[PagalWorld.Com]-190Kbps.mp3
+36:music/mp3/03 Tu Hi Hai (Arijit Singh) 320Kbps.mp3
+37:music/fatafati.m4a
+38:music/Glorious_Purpose_Natalie_Holt_Theme_from_Loki_S02E06_Gl_uK0b3Jg55O0 (copy).m4a
+39:music/Glorious_Purpose_Natalie_Holt_Theme_from_Loki_S02E06_Gl_uK0b3Jg55O0.m4a
+40:music/Kabhi_Jo_Baadal_Barse.mp3
+41:music/Mitwa ｜ Young Arijit Singh ｜ Acoustic Cover.mp3
+42:music/mtvarijit.m4a
+43:music/TUM HI HO - ARIJIT SINGH _  MTV UNPLUGGED VERSION ☄️.m4a
+44:music/_Piya_Aaye_Na_Aashiqui_2_Full_Song_with_Lyrics_Aditya_R_2bMEe0UYa8E.mp3
+45:music/Mere Rang Mein Rangne Wali   S.p. Balasubrahmanyam.m4a
+46:music/Meri Aashiqui - Arijit Singh, Palak Muchhal.m4a
+47:music/Deva Shree Ganesha   Ajay Gogavale.m4a
+48:music/Woh Ladki Jo   Abhijeet.m4a
+49:music/KHUDAYA KHAIR   Akriti Kakkar   Monali   Soham.m4a
+50:music/manawa beharupiya.m4a
+51:music/Jiyein Kyun   Papon.m4a
+52:music/Chaahata_Dil_Tumko_Full_Song_Shaapit_isESoAZxcok_140.mp3
+53:music/Jadugari   Kunal Ganjawala.m4a
+54:music/Jiyein Kyun   Papon, Pritam, Jaideep Sahni.m4a
+55:music/Main Hoon Deewana Tera   Meet Bros Anjjan   Arijit Singh.m4a
+56:music/Galliyan Returns Ek Villain Returns 320 Kbps.mp3
+57:music/Galliyan Returns.m4a
+58:music/Gunaah_mCnX3_Xz5G4_140.mp3
+59:music/Koi Mil Gaya   Udit Narayan   Chitra.m4a
+60:music/Mausam.m4a
+61:music/Hale Dil (Acoustic)   Harshit Saxena.m4a
+62:music/Bye Bye Bye    NSYNC.m4a
+63:music/Paaro.m4a
+64:music/Pattudala (From  Pattudala ).m4a
+65:music/Aapke Pyaar Mein Hum   Alka Yagnik.m4a
+66:music/Saajna_Unplugged_I_Me_Aur_Main_Full_Video_Song_Feat_Fal_AI9bmLEx2yw.mp3
+67:music/Bulleya   Papon.m4a
+68:music/Bum Bum Bole - Shaan, Aamir Khan.m4a
+69:music/Maa - Shankar Mahadevan.m4a
+70:music/Kangna_feat_Master_Rakesh,_Shortie_Deepti_Dr_Zeus,_Master.m4a
+71:music/Uyi Amma (From  Azaad ).m4a
+72:music/Valam_From_Made_in_China_Sachin_Jigar,_Arijit_Singh,_Priya.mp3
+73:music/Agar_Tum_Mil_Jao_From_Zeher_Udit_Narayan_Roop_Kumar_Rath.m4a
+74:music/Ziddi_Dil_Full_Video_MARY_KOM_Feat_Priyanka_Chopra_Vish_puKD3nkB1h4.mp3
+75:music/kk/Hale Dil - Muder 2 320Kbps.mp3
+76:music/kk/Dil Ibaadat - Tum Mile 320Kbps.mp3
+77:music/kk/01. Maahi.mp3
+78:music/mp3/''Tujhe_Bhula_Diya_Full_Song_Anjaana_Anjaani__Ranbir_Kapoor,_Priyanka.mp3
+79:music/mp3/5_6253724905578168550.mp3
+80:music/mp3/A.R._Rahman_-_Hosanna_Best_Lyric_VideoEkk_Deewana_ThaAmy_JacksonLeonSuzanne(128k).mp3
+81:music/mp3/Aa_Jao_Meri_Tamanna_Lyrical_Ajab_Prem_Ki_Ghazab_Kahani__Ranbir.mp3
+82:music/mp3/Aaj_Se_Teri_Lyrical__Padman__Akshay_Kumar_&_Radhika_Apte__Arijit_bass_mixed.m4a
+83:music/mp3/Aaj_Se_Teri_Lyrical__Padman__Akshay_Kumar_&_Radhika_Apte__Arijit_drums_mixed.m4a
+84:music/mp3/Aaj_Se_Teri_Lyrical__Padman__Akshay_Kumar_&_Radhika_Apte__Arijit_other_mixed.m4a
+85:music/mp3/Aaj_Se_Teri_Lyrical__Padman__Akshay_Kumar_&_Radhika_Apte__Arijit_vocals_mixed (1).m4a
+86:music/mp3/Aaj_Se_Teri_Lyrical__Padman__Akshay_Kumar_&_Radhika_Apte__Arijit_vocals_mixed.m4a
+87:music/mp3/Aaj_Se_Teri_Lyrical__Padman__Akshay_Kumar_&_Radhika_Apte__Arijit.mp3
+88:music/mp3/Abhi_Kuch_Dino_Se_Full_Song__Dil_Toh_Baccha_Hai_Ji___Emraan_hashmi,_Ajay_Devgn(128k).mp3
+89:music/mp3/Ajnabi Hawaayein [Full Song] Shaapit By Shreya Ghoshal_140.mp3
+90:music/mp3/Alizeh_Lyric_Video__Ae_Dil_Hai_Mushkil__Ranbir__Anushka__Pritam.mp3
+91:music/mp3/Ami_Je_Tomar_Video_Bhool_Bhulaiyaa_2__Kartik_Kiara_Tabu__Pritam.mp3
+92:music/mp3/Arcade x Milne Hai Mujhse Aayi Chillout Mashup   @AB AMBIENT.mp3
+93:music/mp3/Arijit Singh Live 2017 new year_140.mp3
+94:music/mp3/Arijit Singh’s Concert  Seattle  June 4, 2022_140.mp3
+95:music/mp3/Arijit_Singh__Mere_Bina__Tujhko_Jo_Paaya__Crook_Movie__Unreleased_Song__Full_Song__2021__HD(128k).mp3
+96:music/mp3/Arijit_Singh_-_Raaz_Aankhein_Teri_(Slowed_To_Perfection_And_Reverb)_-_Indian_Lofi_Song_Channel(128k).mp3
+97:music/mp3/Arijit_Singh_Live__Aj_din_chadheya__Kolaveri_D__Many_others_Singer’s_Song__MUMBAI__25_Jan_2020(128k).m4a
+98:music/mp3/Arijit_Singh_Mi_Dolkar_Daryacha_Raja_X_De_dol_dol__Naam_reh_jayega.mp3
+99:music/mp3/au_uu_SzH34yR2.mp3
+100:music/mp3/Baatein_Ye_Kabhi_Na_[Slowed_+_Reverb]_-_Arijit_Singh__khamoshiyan__Lofi_Songs__Indian_Lofi_Song(128k).mp3
+101:music/mp3/Be_Intehaan_[Slowed_+_Reverb]_-_Atif_Aslam__Sunidhi_Chauhan__Indian_Lofi_Song_Channel_#Atifaslam(128k).mp3
+102:music/mp3/Bheegi_Bheegi__James__Emraan_Hashmi__Kangna_Ranaut__Gangster.mp3
+103:music/mp3/Bhula_Dena_Slowed_And_Reverb__Mustafa_Zahid__Aashiqui_2_Songs.mp3
+104:music/mp3/Bojhena_Shey_Bojhena__Title_Track__Soham__Abir__Payel__Mimi__Arijit_Singh__Indraadip(128k).mp3
+105:music/mp3/Bojhena_shey_bojhena।_new_version।_Arijit_Singh(128k).mp3
+106:music/mp3/Channa_Mereya_[Slowed_+_Reverb]_-_Arijit_Singh__Ae_Dil_Hai_Mushkil__Indian_Lofi_Song_Channel(128k).mp3
+107:music/mp3/Chupa_Bhi_Na_Sakenge__Kalank_Bonus_Track__Arijit_Singh__Extended.mp3
+108:music/mp3/Dhal_Jaun_Main_by_Arijit_Singh__Rustom__Akshay_Kumar_&_Ileana___Jeet_Gannguli_,_Manoj_M(128k).mp3
+109:music/mp3/Dil_Hi_Toh_Hai❤️Arijit_Singh_new_song_whatsapp_status(256k).mp3
+110:music/mp3/Dil_Ne_Yeh_Kaha_Hain_Dil_Se_-HD_VIDEO_SONG__Akshay,_Suniel_&_Shilpa__Dhadkan__Hindi_Romantic_Song(128k).mp3
+111:music/mp3/Falak_Tak_Chal_Saath_Mere__Gone__Remix__Bgm_Addicted_(128k).mp3
+112:music/mp3/Fitoor_LYRICS_Shamshera__Arijit_Singh,_Neeti_M__Ranbir_Kapoor.mp3
+113:music/mp3/Haareya_Song__Meri_Pyaari_Bindu__Ayushmann,_Parineeti__Arijit.mp3
+114:music/mp3/Hai_Dil_Ye_Mera_[Slowed_+_Reverb]_-_Arijit_Singh__Lofi_Songs__Indian_Lofi_Song_Channel__Textaudio(128k).mp3
+115:music/mp3/Ijazat_[Slowed_+_Reverb]_-_Falak_Shabir__Judah__Indian_Lofi_Song_Channel_#Falakshabir_#Indianlofi(128k).mp3
+116:music/mp3/Imagine_Dragons_-_Believer(128k).m4a
+117:music/mp3/Ishq_Mubarak_[Slowed_+_Reverb]_-_Arijit_Singh__Ankit_Tiwari__Indian_Lofi_Song_Channel__Textaudio(128k).mp3
+118:music/mp3/Ishq_Risk_Slowed_+_Reverb_Rahat_Fateh_Ali_Khan__Storm_Edition_.mp3
+119:music/mp3/Itni_Si_Baat_Hain_Full_Song__AZHAR__Emraan_Hashmi,_Prachi_Desai__Arijit_Singh,_Pritam__T-Series(128k).mp3
+120:music/mp3/Jagga_Jasoos__Jhumritalaiyya_Song_With_Lyrics_l_Ranbir,_Katrina__Pritam_Arijit,_Mohan__Neelesh(128k).mp3
+121:music/mp3/Jaise_Mera_Tu_Lyrics_-_Arijit_Singh,_Priya_Saraiy,_Saif_Ali_Khan(256k).mp3
+122:music/mp3/Jo Bhi Kasmein [Slowed + Reverb] - Udit Narayan   Raaz   Old.mp3
+123:music/mp3/Kabhi Na Kabhi [Full Song]  Shaapit  Aditya Narayan_140.mp3
+124:music/mp3/Kalank_[Slowed_+_Reverb]_-_Arijit_Singh__Kalank__Storm_Edition__Indian_Lofi_Song_Channel(128k).mp3
+125:music/mp3/Karpur Gauram full song_320k.mp3
+126:music/mp3/Khamoshiyan_-_Title_Song__Ali_Fazal__Sapna_Pabbi__Gurmeet_Choudhary__Arijit_Singh(256k) AETrim1607931468253.mp3
+127:music/mp3/Khamoshiyan_-_Title_Song__Ali_Fazal__Sapna_Pabbi__Gurmeet_Choudhary__Arijit_Singh(256k).mp3
+128:music/mp3/Khamoshiyan_[Slowed_+_Reverb]_-_Arijit_Singh__Indian_Lofi_Song_Channel_#khamoshiyan_#Arijitsingh(128k).mp3
+129:music/mp3/Ki Honda Pyaar (Arijit Singh Version) - (Raag.Fm).mp3
+130:music/mp3/Laagi_Na_Choote_Full_Song__A_Gentleman_SSR__Sidharth_Jacqueline.mp3
+131:music/mp3/Lo_Maan_Liya_Slowed_And_Reverb__Arijit_Singh__Raaz_Reboot__Lofi_Mix__Indian_Lofi_Song_Channel(128k).mp3
+132:music/mp3/Luka_Chuppi_Arijit_Singh_Full_Song_With_Lyrics_❤️_Naam_Reh_Jaayega (1).mp3
+133:music/mp3/Luka_Chuppi_Arijit_Singh_Full_Song_With_Lyrics_❤️_Naam_Reh_Jaayega.mp3
+134:music/mp3/Luteron_Ka_Lutera__Kalank_Title_Cover__Arijit_Singh__Amitabh_Bhattacharya__Pritam(128k).mp3
+135:music/mp3/LYRICAL_Main_Agar_Kahoon__Om_Shanti_Om__Shahrukh_Khan,Deepika_Padukone__Sonu_Nigam,Shreya_Ghosal(128k).mp3
+136:music/mp3/Maan Le (Reprise)_251.mp3
+137:music/mp3/Mere_Dholna_Arijit_Singh_Version_Audio__Bhool_Bhulaiyaa_2__Kartik.mp3
+138:music/mp3/Meri_Aashiqui_[Slowed_+_Reverb]_-_Arijit_Singh__Palak_Muchhal__Indian_Lofi_Song_Channel_#Arijit(128k).mp3
+139:music/mp3/MERI_AASHIQUI_LYRICS_-_Aashiqui_2__Arijit_Singh__Palak_Muchhal(128k) AETrim1611931377733.mp3
+140:music/mp3/MERI_AASHIQUI_LYRICS_-_Aashiqui_2__Arijit_Singh__Palak_Muchhal(128k).mp3
+141:music/mp3/Meri_Aashiqui_Tum_Hi_Ho__Aashiqui_2_(Palak_Muchhal)__Love_Song_2013__Full_HD(256k).mp3
+142:music/mp3/Meri_Jaan_x_Chand_Sifarish_Gravero_Mashup__Full_Version_251.mp3
+143:music/mp3/Mi_Dolkara_Daryacha_Raja_and_De_Dol_Dol_Dol__Arijit_Singh_Tribute.mp3
+144:music/mp3/Milne_Hai_Mujhse_Aai_[Slowed_+_Reverb]_-_Arijit_Singh__Aashiqui_2__Indian_Lofi_Song_Channel(128k).mp3
+145:music/mp3/MOVIE  Dhokha Song   Arijit Singh   Khushalii Kumar, Parth,.mp3
+146:music/mp3/nindya_arijit_singh_new_song_2016(128k).mp3
+147:music/mp3/Pal_[Slowed_+_Reverb]_-_Arijit_Singh__Shreya_Ghoshal__Jalebi__Indian_Lofi_Song_Channel(128k).mp3
+148:music/mp3/Pal-Arijit-Singh.mp3
+149:music/mp3/Pehla_Nasha_-_SANAM__Sadhana_Sargam_&_Udit_Narayan__Music_Video(128k).m4a
+150:music/mp3/Pehla_Nasha_Full_Song_with_Lyrics__Udit_Narayan__Sadhana_Sargam__Love_Songs_2015(128k).mp3
+151:music/mp3/Pehla_Nasha_instrumental_whatsapp_status(128k).mp3
+152:music/mp3/PHIR_KABHI_(Reprise)_Full_Song__M.S._DHONI__Arijit_Singh__Sushant_Singh,_Disha_Patani(128k).mp3
+153:music/mp3/Phir_Na_Aisi_Raat_Aayegi_Song_Laal_Singh_Chaddha_Aamir_Karee.m4a
+154:music/mp3/Raabta_(Kehte_Hai_Khuda_Ne)_[Slowed_+_Reverb]__Arijit_Singh__Indian_Lofi_Song_Channel__Textaudio(128k).mp3
+155:music/mp3/Raabta(Kehte_Hain_Khuda)_Agent_Vinod__ARIJIT_SINGH__Unplugged_Music_Video(256k).mp3
+156:music/mp3/Raazi-Arijit-Singh.mp3
+157:music/mp3/Saanson_Ko_[Slowed_And_Reverb]_-_ARIJIT_SINGH__Indian_Lofi_Song_Channel__Textaudio(128k).mp3
+158:music/mp3/Saawali_Si_Raat_Barfi_Pritam_Arijit_Ranbir_Priyanka_Chopra_you.mp3
+159:music/mp3/shincan_theme_song_1_hour(128k).m4a
+160:music/mp3/Shinchan_family_soundtrack_(Extended_Version)(256k).mp3
+161:music/mp3/Shinchan_Sad_Music丨Soundtrack_&_Background_Music丨Refresh_your_Mind(128k).mp3
+162:music/mp3/Shinchan_sad_soundtrack_&_background_music__Heart_Touching_Relaxing_Music(128k).mp3
+163:music/mp3/Suno_Na_Sangemarmar_Slowed_+_Reverb_Arijit_Singh__Indian_Lofi_Song.mp3
+164:music/mp3/Tere-Bina-Arijit-Singh,Aakanksha-Sharma.mp3
+165:music/mp3/Tu Hi Hai Aashiqui (Male Version)   Audio Song   Dishkiyaoon.mp3
+166:music/mp3/Tu_Har_Lamha_[Slowed_+_Reverb]_-_Arijit_Singh__khamoshiyan__Indian_Lofi_Song_Channel(128k).mp3
+167:music/mp3/Tu_Har_Lamha_Full_Video_-_KhamoshiyanArijit_SinghAli_Fazal,_Sapna_PabbiBobby-Imran(128k).mp3
+168:music/mp3/Tu_Mila_Jis_Tarah_Saba_Mile_Slowed+Reverb_Shafaqat_Ali__Raaz_3.mp3
+169:music/mp3/Tum_Hi_Ho_-_Aashiqui_2__(Instrumental)_♫♥Heart_Touching♥♫(128k).mp3
+170:music/mp3/Tumhein Mohabbat Hai Song Arijit Singh.mp3
+171:music/mp3/Udit_Narayan_Romantic_Song_~_Falak_Dekhun(128k).mp3
+172:music/mp3/Ullu_Ka_Pattha.mp3
+173:music/mp3/UMAPATI MAHADEV...........DEVO KE DEV MAHADEV SONG..._320k.mp3
+174:music/mp3/Uska_Hi_Banana_[Slowed_+_Reverb]_-_Arijit_Singh__1920_Evil_Returns__Indian_Lofi_Song_Channel(128k).mp3
+175:music/mp3/Wat_Wat_Wat_FULL_AUDIO_Song__Tamasha__Ranbir_Kapoor,_Deepika_Padukone.mp3
+176:music/mp3/Woh_Ladki_Full_Video__Arijit_Singh__AndhaDhun__Ayushmann_Khurrana.mp3
+177:music/mp3/Yeh_Fitoor_Mera_-_Full_Song__Fitoor__Arijit_Singh__Aditya_Roy_Kapur,_Katrina_Kaif__Amit_Trivedi(128k).mp3
+178:music/mp3/Zara_Sa_Lyric_Video_JannatEmraan_Hashmi,_Sonal_ChauhanKKPritamSayeed.mp3
+179:music/mp3/Zindagi_Se_Churake_Lyrical__Raaz_3_I_Emraan_Hashmi_I_Bipasha_Basu.mp3
+180:music/mp3/_Chaar_Kadam_Full_Song_with_LYRICS_PK_Sushant_Singh_Raj_SqEcZrfcfoo.mp3
+181:music/mp3/_MELANCHOLIA_Music_Box_Sad_creepy_song__u9WsZoceais_140.mp3
+182:music/mp3/1920ER - Uska Hi Banana.mp3
+183:music/mp3/2 States 2014 - Mast Magan.mp3
+184:music/mp3/05 Laagi Na Choote - A Gentleman (Arijit) 320Kbps.mp3
+185:music/mp3/Aa_Zara_Thk-CR6nSKA_140.mp3
+186:music/mp3/01 - Tum Hi Ho - PagalSongs.com.mp3
+187:music/mp3/08 - Aasan Nahin Yahan - PagalSongs.com.mp3
+188:music/mp3/10 - Milne Hai Mujhse Aayi - PagalSongs.com.mp3
+189:music/mp3/Hum Mar Jayenge-(Mr-Jatt.com).mp3
+190:music/mp3/01 Bulleya (Reprise) Arijit Singh - 190Kbps.mp3
+191:music/mp3/05 Soch Na Sake Version 2 - Airlift (Arijit Singh)320Kbps.mp3
+192:music/mp3/Jaana-Ve-Arijit-Singh.mp3
+193:music/mp3/Wo Ladki - (Raag.Fm).mp3
+194:music/mp3/Apna_Bana_Le_Full_Audio_Bhediya_Varun_Dhawan_Kriti_Sano_u2NAuswnTKs.mp3
+195:music/mp3/Apnaa_Mujhe_Tu_Lagaa_I30JRrk1KPE_140.mp3
+196:music/mp3/Arijit Singh Mere Bina Tujhko Jo Paaya Crook Movie Unreleased Song Full Song 2021 HD.mp3
+197:music/mp3/Bas Tu Hai - (Raag.Fm).mp3
+198:music/mp3/Enna Sona - (Raag.Fm).mp3
+199:music/mp3/Muskurane - (Raag.Fm).mp3
+200:music/mp3/Samjhawan - (Raag.Fm).mp3
+201:music/mp3/Shaayraana - (Raag.Fm).mp3
+202:music/mp3/Subah Subah - (Raag.Fm).mp3
+203:music/mp3/Kabira Encore - (Raag.Fm).mp3
+204:music/mp3/Tose Naina - (Raag.Fm).mp3
+205:music/mp3/Khuda - Arijit Singh - 320Kbps.mp3
+206:music/mp3/Mera Ishq - Arijit Singh - 320Kbps.mp3
+207:music/mp3/Khwaishein - Arijit Singh - 320Kbps.mp3
+208:music/mp3/Taarefon Se - Arijit Singh - 320Kbps.mp3
+209:music/mp3/Hai Dil Ye Mera - Arijit Singh - 320Kbps.mp3
+210:music/mp3/Mahi Aaja - Arijit Singh - 320Kbps.mp3
+211:music/mp3/Raabta - Arijit Singh - 320Kbps.mp3
+212:music/mp3/Kabira - Arijit Singh - 320Kbps.mp3
+213:music/mp3/Aaj Phir - Arijit Singh - 320Kbps.mp3
+214:music/mp3/Phir Le Aya Dil - Arijit Singh - 320Kbps.mp3
+215:music/mp3/Ijazat - Arijit Singh - 320Kbps.mp3
+216:music/mp3/Arijit_Singh_Deva_Deva_Film_Version_Brahmastra_Pritam_A_P69_fGqqa4A.mp3
+217:music/mp3/Rait Zara Si (Atrangi Re) - Arijit Singh_128-(WapKing).mp3
+218:music/mp3/BKB 2017 - Bairaagi.mp3
+219:music/mp3/Saawali Si Raat - Barfi 128 Kbps.mp3
+220:music/mp3/Tera Hoke Rahoon - (Raag.Fm).mp3
+221:music/mp3/Bhare_Naina_QSovkFvJW6k_140.mp3
+222:music/mp3/Sukoon Mila(PagalWorld).mp3
+223:music/mp3/new_128_03 - Kehna Hi Kya - Bombay (1995).mp3
+224:music/mp3/Rasiya Reprise(PagalWorldl).mp3
+225:music/mp3/Tera Hua - Arijit Singh.mp3
+226:music/mp3/Chal Ghar Chalen (Malang) - (amlijatt.in).mp3
+227:music/mp3/06 - Khairiyat (Happy) - Chhichhore (2019).mp3
+228:music/mp3/Akhiyaan Milavanga - Arijit Singh.mp3
+229:music/mp3/Naina - (Raag.Fm).mp3
+230:music/mp3/Main Hun Tu Ho - Days Of Tafree (Arijit Singh) 190Kbps.mp3
+231:music/mp3/02 - Tu Mila To Haina - De De Pyaar De (2019).mp3
+232:music/mp3/06 - Dil Royi Jaye - De De Pyaar De (2019).mp3
+233:music/mp3/03 Tu Hi Hai (Arijit Singh) 320Kbps.mp3
+234:music/mp3/Dil Hi Toh Hai - (Raag.Fm).mp3
+235:music/mp3/Dil_Ne_Kar_Liya_Aitbaar_4K_Video_Humraaz_Bobby_Deol_Ami_EqmKS9A8QBk.mp3
+236:music/mp3/Janib (Arijit Singh) Dilliwaali Zaalim Girlfriend 320Kbps.mp3
+237:music/mp3/Dilwale 2015 - Daayre.mp3
+238:music/mp3/Piya Tu Piya - Dongri Ka Raja (Arijit Singh) 190Kbps.mp3
+239:music/mp3/Kya Pataa (Drishyam) Arijit Singh 320Kbps.mp3
+240:music/mp3/Ek_Din_Teri_Raahon_55UJumsI1m0_140.mp3
+241:music/mp3/Hue Bechain - Yaseer Desai - 320Kbps.mp3
+242:music/mp3/EV - Hamdard.mp3
+243:music/mp3/Hale Dil - Muder 2 320Kbps.mp3
+244:music/mp3/Dil Ibaadat - Tum Mile 320Kbps.mp3
+245:music/mp3/Bas Ek Baar - Fever (Arijit Singh) 190Kbps.mp3
+246:music/mp3/Woh Din_320(PagalWorld).mp3
+247:music/mp3/Tum Tum Tum Ho - Fuddu (Arijit Singh) 320Kbps.mp3
+248:music/mp3/Muskurahat - Gangubai Kathiawadi 128 Kbps.mp3
+249:music/mp3/Genius 2018 - Tera Fitoor.mp3
+250:music/mp3/Dil Na Jaaneya (Unplugged) - Good Newwz 128 Kbps.mp3
+251:music/mp3/Tu Jo Mili.mp3
+252:music/mp3/03 Khul Kabhi (Haider) -320Kbps [PagalWorld.com].mp3
+253:music/mp3/Pal Bhar (Chaahunga Reprise) Arijit Singh 320Kbps.mp3
+254:music/mp3/HAK - Humnava.mp3
+255:music/mp3/HAK - Hasi.mp3
+256:music/mp3/Zara Si Dosti - (Raag.Fm).mp3
+257:music/mp3/Main Dhoondne Ko Zamaane Mein - (Raag.Fm).mp3
+258:music/mp3/Heeriye From Happy Hardy And Heer - (Raag.Fm).mp3
+259:music/mp3/03 Tu Chale[PagalWorld.Com]-190Kbps.mp3
+260:music/mp3/Infinity_x_Janam_Janam_Mashup_2021_Remix_Rik_Beatz_9Ud7Yfsis2I_140.mp3
+261:music/mp3/Intezaar - (Raag.Fm).mp3
+262:music/mp3/03 Safar - Jab Harry Met Sejal (Arijit Singh) 320Kbps.mp3
+263:music/mp3/Jab Tu Saath Nahi Hota - Yaseer Desai - 320Kbps.mp3
+264:music/mp3/Phir-Wahi-Arijit-Singh.mp3
+265:music/mp3/JEENA_MARNA_4LiAgLNF010_140.mp3
+266:music/mp3/Ka Karoon Sajani - Arijit Singh Ft. Phoenyx (Unplugged) 190Kbps.mp3
+267:music/mp3/Kaala_Jaadu_Freddy_Kartik_Aaryan_Pritam_Arijit_Singh_Ni_RHYKhnSf1is.mp3
+268:music/mp3/Mehram - (Raag.Fm).mp3
+269:music/mp3/03 - Kalank - Kalank (2019).mp3
+270:music/mp3/K&S 2016 - Bolna.mp3
+271:music/mp3/Jaan Nisaar - Arijit Singh.mp3
+272:music/mp3/Qaafirana - Kedarnath 320 Kbps.mp3
+273:music/mp3/07 - Ve Maahi - PagalSongs.com.mp3
+274:music/mp3/Khuda_Bhi_ppcVqfsekIs_140.mp3
+275:music/mp3/Khuda Haafiz (The Body) - (Raag.Fm).mp3
+276:music/mp3/02 Ji Huzoori - Ki And Ka (Mithoon) 190Kbps.mp3
+277:music/mp3/Kya_Tujhe_Ab_ye_Dil_Bataye_Full_Song_SANAM_RE_Pulkit_Sa_WKYvD3qoSh4.mp3
+278:music/mp3/Let_Me_Down_Slowly_x_Kabhi_Jo_Badal_Barse_Mashup_Alec_B_mdpZNPjSVN8.mp3
+279:music/mp3/Aye Dil Bata - (Raag.Fm).mp3
+280:music/mp3/Humdard - (Raag.Fm).mp3
+281:music/mp3/Raabta (Title Track) - (Raag.Fm).mp3
+282:music/mp3/Roke Na Ruke Naina - (Raag.Fm).mp3
+283:music/mp3/Sawan Aaya Hai - (Raag.Fm).mp3
+284:music/mp3/Love Songs Mashup - (Raag.Fm).mp3
+285:music/mp3/Aabaad Barbaad - Ludo 128 Kbps.mp3
+286:music/mp3/Lyrical_Senorita_Zindagi_Na_Milegi_Dobara_Farhan_Akhtar_2Z0Put0teCM.mp3
+287:music/mp3/Lyrical_Tera_Zikr_Song_Guzaarish_Hrithik_Roshan_Aishwar_iAL18PMrE2g.mp3
+288:music/mp3/Maine-Socha-Ke-Chura-Loon-Arijit-Singh.mp3
+289:music/mp3/05 Saudebaazi (Arijit Singh) Mary Kom - 190Kbps.mp3
+290:music/mp3/Mat_Aazma_Re_yNqfDCLpUxc_140.mp3
+291:music/mp3/03 Kabira - Arjit Singh - MTV Unplugged [PagalWorld.com].mp3
+292:music/mp3/04 Phir Mohabbat - Arjit Singh  - MTV Unplugged [PagalWorld.com].mp3
+293:music/mp3/Tera Chehra (Sanam Teri Kasam) - (Raag.Fm).mp3
+294:music/mp3/Binte Dil - (Raag.Fm).mp3
+295:music/mp3/Pal Pal Dil Ke Paas - Arijit Singh.mp3
+296:music/mp3/Palat_Tera_Hero_Idhar_Hai_Full_Video_Song_Main_Tera_Her_9vkcYxbGdTE.mp3
+297:music/mp3/Sapna - (Raag.Fm).mp3
+298:music/mp3/Tu Hi Yaar Mera - Pati Patni Aur Woh.mp3
+299:music/mp3/Power Couple - Pehli Jhalak (Title Song) - Arijit Singh.mp3
+300:music/mp3/Pritam_Mat_Aazma_Re_Full_Video_Murder_3_Randeep_Hooda_A_p_dtI2bLWhY.mp3
+301:music/mp3/Junooni - (Raag.Fm).mp3
+302:music/mp3/Ik Vaari Aa - Raabta (Arijit Singh) 320Kbps.mp3
+303:music/mp3/Raanjhana - (Raag.Fm).mp3
+304:music/mp3/RR 2016 - Raaz Aankhein Teri.mp3
+305:music/mp3/01. Maahi.mp3
+306:music/mp3/Zaalima - (Raag.Fm).mp3
+307:music/mp3/5_6064601694350607245.mp3
+308:music/mp3/Ramleela 2013 - Laal Ishq.mp3
+309:music/mp3/Thoda-Aur-Arijit-Singh,Palak-Muchhal.mp3
+310:music/mp3/Yeh Ishq Hai - Rangoon (Arijit Singh) 190Kbps.mp3
+311:music/mp3/Jiya - (Raag.Fm).mp3
+312:music/mp3/Sajde - (Raag.Fm).mp3
+313:music/mp3/Dekha Hazaro Dafaa - (Raag.Fm).mp3
+314:music/mp3/Gazab Ka Hai Yeh Din - Sanam Re (Arijit Singh) 320Kbps.mp3
+315:music/mp3/Salamat - Sarbjit (Arijit Singh) 320Kbps.mp3
+316:music/mp3/SAWAAR_LOON_GpLj8f2CI00_140.mp3
+317:music/mp3/Aayat (Bajirao Mastani) - (Raag.Fm).mp3
+318:music/mp3/Main-Hoon-Saath-Tere-Arijit-Singh.mp3
+319:music/mp3/Shayad From Love Aaj Kal - (Raag.Fm).mp3
+320:music/mp3/Darkhaast - Shivaay (Arijit Singh) 320Kbps.mp3
+321:music/mp3/Raakh - Arijit Singh.mp3
+322:music/mp3/Meet - (Raag.Fm).mp3
+323:music/mp3/03 Sun Le Zara - Singham Returns (PagalWorld.com) 320Kbps.mp3
+324:music/mp3/04 Uska Hi Banana - 1920 Evil Returns (Arijit Singh).mp3
+325:music/mp3/10 Main Rang Sharbaton Ka (Reprise Version) (Arijit Singh).mp3
+326:music/mp3/15 Taake Jhanke - Queen (Arijit Singh).mp3
+327:music/mp3/21 Jhoom Jhoom Ta Hun Main (Film Version) - Players (Arijit Singh).mp3
+328:music/mp3/Musafir Reprise - (Raag.Fm).mp3
+329:music/mp3/Matargashti (Tamasha) Mohit Chauhan 190Kbps.mp3
+330:music/mp3/03 Wafa Ne Bewafai - Tera Suroor (Arijit Singh) 320Kbps.mp3
+331:music/mp3/Tere_Bin_Nahi_Laage_Male_Version__dgA78WcmH4c_140.mp3
+332:music/mp3/Kaash - (Raag.Fm).mp3
+333:music/mp3/Theme_of_SHIVA_3_Armonian_l0ua_FD5RO8_140.mp3
+334:music/mp3/o-soniye-titoo-m.b.a.-128-kbps-sound.mp3
+335:music/mp3/Tujhse_Pyaar_Karta_Hoon_Freddy_Kartik_Aaryan_Alaya_F_Pr_Yn7RIRt33Pc.mp3
+336:music/mp3/Ishq Mubarak - Tum Bin 2 (Arijit Singh) 190Kbps.mp3
+337:music/mp3/Dekh Lena - (Raag.Fm).mp3
+338:music/mp3/Udi_Teri_Aankhon_Se_Full_HD_Song_Guzaarish_Hrithik_Rosh_hbP3vLetsnM.mp3
+339:music/mp3/Had Se Bhi Jyada Tum Se_192-(JioMp3).mp3
+340:music/mp3/09 Oh Jaaniya (Arijit Singh Version) Wedding Pullav.mp3
+341:music/mp3/02 Tu Zaroori - 190kbps.mp3
+342:music/mp3/Mareez E Ishq.mp3
+343:music/mp3/ZINDAGI_DO_PAL_KI_LPYutSWiG4c_140.mp3
+344:music/mp3/mix songs/''Tujhe_Bhula_Diya_Full_Song_Anjaana_Anjaani__Ranbir_Kapoor,_Priyanka.mp3
+345:music/mp3/mix songs/Bheegi_Bheegi__James__Emraan_Hashmi__Kangna_Ranaut__Gangster.mp3
+346:music/mp3/mix songs/Ishq_Risk_Slowed_+_Reverb_Rahat_Fateh_Ali_Khan__Storm_Edition_.mp3
+347:music/mp3/mix songs/nindya_arijit_singh_new_song_2016(128k).mp3
+348:music/mp3/mix songs/Tu_Mila_Jis_Tarah_Saba_Mile_Slowed+Reverb_Shafaqat_Ali__Raaz_3.mp3
+349:music/mp3/mix songs/Zindagi_Se_Churake_Lyrical__Raaz_3_I_Emraan_Hashmi_I_Bipasha_Basu.mp3
+350:music/mp3/mix songs/Apnaa_Mujhe_Tu_Lagaa_I30JRrk1KPE_140.mp3
+351:music/mp3/mix songs/Barfi_Kyon_Na_Hum_Tum_Lyrics_uutYXcnsR4c_140.mp3
+352:music/mp3/mix songs/Bhare_Naina_QSovkFvJW6k_140.mp3
+353:music/mp3/mix songs/Ek_Din_Teri_Raahon_55UJumsI1m0_140.mp3
+354:music/mp3/mix songs/Gale_Lag_Ja_Full_Video_Song_De_Dana_Dan_Akshay_Kumar_Ka_73P0XInJBDc.mp3
+355:music/mp3/mix songs/Hamne_Tumko_Dil_Ye_De_Diya_Full_Video_Gunaah_Dino_Bipas_r4QnmrtiDGI.mp3
+356:music/mp3/mix songs/Hum_Dil_De_Chuke_Sanam_Title_Track_Ajay_Devgan_Aishwary_T8iLHmKBjLE.mp3
+357:music/mp3/mix songs/Hum_Nahin_HD_Full_Video_Song_Hungama_Akshaye_Khanna_Rim_cjpWGKQtRoc.mp3
+358:music/mp3/mix songs/Infinity_x_Janam_Janam_Mashup_2021_Remix_Rik_Beatz_9Ud7Yfsis2I_140.mp3
+359:music/mp3/mix songs/Jaadugari_gN2fLYU65vw_140.mp3
+360:music/mp3/mix songs/Jeene_Bhi_De_Lyrical_Video_Yasser_Desai_Harish_Sagane_D_0KGP9f3duEg.mp3
+361:music/mp3/mix songs/Khuda_Bhi_ppcVqfsekIs_140.mp3
+362:music/mp3/mix songs/Kuch_To_Hai_Full_Video_Song_DO_LAFZON_KI_KAHANI_Randeep_4k_PfFOY0Q.mp3
+363:music/mp3/mix songs/Kya_Tujhe_Ab_ye_Dil_Bataye_Full_Song_SANAM_RE_Pulkit_Sa_WKYvD3qoSh4.mp3
+364:music/mp3/mix songs/Kyon_Barfi_Pritam_Papon_Sunidhi_Ranbir_Priyanka_Rq7tyOcVgLQ_140.mp3
+365:music/mp3/mix songs/Let_Me_Down_Slowly_x_Kabhi_Jo_Badal_Barse_Mashup_Alec_B_mdpZNPjSVN8.mp3
+366:music/mp3/mix songs/Lyrical_Senorita_Zindagi_Na_Milegi_Dobara_Farhan_Akhtar_2Z0Put0teCM.mp3
+367:music/mp3/mix songs/Lyrical_Tera_Zikr_Song_Guzaarish_Hrithik_Roshan_Aishwar_iAL18PMrE2g.mp3
+368:music/mp3/mix songs/Main_Kabhi_Bhoolunga_Na_Tujhe_Saudebaazi_ft_Aakrosh_Lof_M7vXOK_ZKY0.mp3
+369:music/mp3/mix songs/Mat_Aazma_Re_yNqfDCLpUxc_140.mp3
+370:music/mp3/mix songs/Pritam_Mat_Aazma_Re_Full_Video_Murder_3_Randeep_Hooda_A_p_dtI2bLWhY.mp3
+371:music/mp3/mix songs/Rab_Ka_Shukrana_Reprise_Jannat_2_Full_mp3_song_Anupam_A_f_aMfq_HR98.mp3
+372:music/mp3/mix songs/Tere_Bin_Nahi_Laage_Male_Version__dgA78WcmH4c_140.mp3
+373:music/mp3/mix songs/Tujhse_Pyaar_Karta_Hoon_Freddy_Kartik_Aaryan_Alaya_F_Pr_Yn7RIRt33Pc.mp3
+374:music/mp3/mix songs/Udi_Teri_Aankhon_Se_Full_HD_Song_Guzaarish_Hrithik_Rosh_hbP3vLetsnM.mp3
+375:music/mp3/mix songs/ZINDAGI_DO_PAL_KI_LPYutSWiG4c_140.mp3
+376:music/mp3/mix songs/मोहब्बत_हो_न_जाये_गाने_के_बोल_Kumar_Sanu_Alka_Yagnik_Ka_FrLkBplpAtE.mp3
+377:music/mp3/shreya/Ajnabi Hawaayein [Full Song] Shaapit By Shreya Ghoshal_140.mp3
+378:music/mp3/shreya/Meri_Jaan_x_Chand_Sifarish_Gravero_Mashup__Full_Version_251.mp3
+379:music/mp3/shreya/Aa_Zara_Thk-CR6nSKA_140.mp3
+380:music/mp3/shreya/AJNABI_HAWAAYEIN_-2bxA8VyzY0_140.mp3
+381:music/mp3/shreya/Lyrical_Video_Saathiya_Singham_Ajay_Devgan_Kajal_Aggarw_2ibPLYwVM38.mp3
+382:music/mp3/shreya/LYRICAL_Latoo_Video_Song_Ghajini_Jiah_Khan_A_R_Rahman_ORiC_DAahuM (1).mp3
+383:music/mp3/shreya/Lyrical_O_Bekhabar_Action_Replayy_Akshay_Kumar_Aishwary_yidaL9xDlk8.mp3
+384:music/mp3/shreya/SAWAAR_LOON_GpLj8f2CI00_140.mp3
+385:music/mp3/shreya/Teri_Ore_Full_Audio_Singh_Is_Kinng_Akshay_K_Katrina_K_P_CWfCp96.mp3
+386:music/mp3/Telegram/Aa_Jao_Meri_Tamanna_Lyrical_Ajab_Prem_Ki_Ghazab_Kahani__Ranbir.mp3
+387:music/mp3/Telegram/Aaj_Se_Teri_Lyrical__Padman__Akshay_Kumar_&_Radhika_Apte__Arijit.mp3
+388:music/mp3/Telegram/Alizeh_Lyric_Video__Ae_Dil_Hai_Mushkil__Ranbir__Anushka__Pritam.mp3
+389:music/mp3/Telegram/Ami_Je_Tomar_Video_Bhool_Bhulaiyaa_2__Kartik_Kiara_Tabu__Pritam.mp3
+390:music/mp3/Telegram/Arcade x Milne Hai Mujhse Aayi Chillout Mashup   @AB AMBIENT.mp3
+391:music/mp3/Telegram/Arijit Singh Live 2017 new year_140.mp3
+392:music/mp3/Telegram/Arijit Singh’s Concert  Seattle  June 4, 2022_140.mp3
+393:music/mp3/Telegram/Arijit_Singh_Mi_Dolkar_Daryacha_Raja_X_De_dol_dol__Naam_reh_jayega.mp3
+394:music/mp3/Telegram/Bhula_Dena_Slowed_And_Reverb__Mustafa_Zahid__Aashiqui_2_Songs.mp3
+395:music/mp3/Telegram/Chupa_Bhi_Na_Sakenge__Kalank_Bonus_Track__Arijit_Singh__Extended.mp3
+396:music/mp3/Telegram/Fitoor_LYRICS_Shamshera__Arijit_Singh,_Neeti_M__Ranbir_Kapoor.mp3
+397:music/mp3/Telegram/Haareya_Song__Meri_Pyaari_Bindu__Ayushmann,_Parineeti__Arijit.mp3
+398:music/mp3/Telegram/Jo Bhi Kasmein [Slowed + Reverb] - Udit Narayan   Raaz   Old.mp3
+399:music/mp3/Telegram/Kabhi Na Kabhi [Full Song]  Shaapit  Aditya Narayan_140.mp3
+400:music/mp3/Telegram/Karpur Gauram full song_320k.mp3
+401:music/mp3/Telegram/Laagi_Na_Choote_Full_Song__A_Gentleman_SSR__Sidharth_Jacqueline.mp3
+402:music/mp3/Telegram/Luka_Chuppi_Arijit_Singh_Full_Song_With_Lyrics_❤️_Naam_Reh_Jaayega (1).mp3
+403:music/mp3/Telegram/Maan Le (Reprise)_251.mp3
+404:music/mp3/Telegram/maana ke hum yar nahi.mp3
+405:music/mp3/Telegram/Mere_Dholna_Arijit_Singh_Version_Audio__Bhool_Bhulaiyaa_2__Kartik.mp3
+406:music/mp3/Telegram/Meri_Aashiqui_Tum_Hi_Ho__Aashiqui_2_(Palak_Muchhal)__Love_Song_2013__Full_HD(256k)_mixed.mp3
+407:music/mp3/Telegram/Mi_Dolkara_Daryacha_Raja_and_De_Dol_Dol_Dol__Arijit_Singh_Tribute.mp3
+408:music/mp3/Telegram/MOVIE  Dhokha Song   Arijit Singh   Khushalii Kumar, Parth,.mp3
+409:music/mp3/Telegram/Nava_Durga_Gayatri_Mantra_Jaap_7BVRrXcx67w_140.m4a
+410:music/mp3/Telegram/Pagglait_Full_Movie_Audio_Jukebox_Arijit_Singh_Neelesh_i0y_5Sh7s28 (1).m4a
+411:music/mp3/Telegram/Pagglait_Full_Movie_Audio_Jukebox_Arijit_Singh_Neelesh_i0y_5Sh7s28.m4a
+412:music/mp3/Telegram/Phir_Na_Aisi_Raat_Aayegi_Song_Laal_Singh_Chaddha_Aamir_Karee.m4a
+413:music/mp3/Telegram/Saawali_Si_Raat_Barfi_Pritam_Arijit_Ranbir_Priyanka_Chopra_you.mp3
+414:music/mp3/Telegram/Suno_Na_Sangemarmar_Slowed_+_Reverb_Arijit_Singh__Indian_Lofi_Song.mp3
+415:music/mp3/Telegram/Tu Hi Hai Aashiqui (Male Version)   Audio Song   Dishkiyaoon.mp3
+416:music/mp3/Telegram/UMAPATI MAHADEV...........DEVO KE DEV MAHADEV SONG..._320k.mp3
+417:music/mp3/Telegram/Wat_Wat_Wat_FULL_AUDIO_Song__Tamasha__Ranbir_Kapoor,_Deepika_Padukone.mp3
+418:music/mp3/Telegram/Woh_Ladki_Full_Video__Arijit_Singh__AndhaDhun__Ayushmann_Khurrana.mp3
+419:music/mp3/Telegram/Zara_Sa_Lyric_Video_JannatEmraan_Hashmi,_Sonal_ChauhanKKPritamSayeed.mp3
+420:music/mp3/Telegram/_Chaar_Kadam_Full_Song_with_LYRICS_PK_Sushant_Singh_Raj_SqEcZrfcfoo.mp3
+421:music/mp3/Telegram/_Issak_Taari_FULL_AUDIO_Song_I_Aascar_Films_A_R_Rahma_dScc9di1KNY.mp3
+422:music/mp3/Telegram/_Main_Hoon_Deewana_Tera_Full_Song_Audio_Meet_Bros_Anjja_Byg0BmFvGNo.mp3
+423:music/mp3/Telegram/_Tum_Todo_Na_Female_FULL_AUDIO_Song_I_Aascar_Films_A_R_502xhwUiGTs.mp3
+424:music/mp3/Telegram/_Bhula_Dena_Aashiqui_2_Full_Song_With_Lyrics_Aditya_Roy_s0ksvPulHt8.mp3
+425:music/mp3/Telegram/_Te_Amo_Dum_Maaro_Dum_full_song_Bipasha_Basu_Rana_Dagub_3N3n23loy24.mp3
+426:music/mp3/Telegram/Aankhon_Mein_Teri_Ajab_Si_Lyrical_Om_Shanti_Om_K_K_Sha_7KKVb0_IdD4.mp3
+427:music/mp3/Telegram/Ambarsariya_Lyrical_Fukrey_Sona_Mohapatra_Pulkit_Samrat_oMesPehN (1).mp3
+428:music/mp3/Telegram/Ambarsariya_Lyrical_Fukrey_Sona_Mohapatra_Pulkit_Samrat_oMesPehN.mp3
+429:music/mp3/Telegram/ANIMAL_HUA_MAIN_Lyrical_Video_Ranbir_Kapoor_Rashmika_M_KNXYonYD59w.mp3
+430:music/mp3/Telegram/Anuv_Jain_ALAG_AASMAAN_a_song_on_the_ukulele_vA86QFrXoho_140.mp3
+431:music/mp3/Telegram/Anuvanuvuu_Lyrical_Om_Bheem_Bush_Sree_Vishnu_Arijit_Sin_E7ww8Xowydc.mp3
+432:music/mp3/Telegram/Apna_Bana_Le_Full_Audio_Bhediya_Varun_Dhawan_Kriti_Sano_u2NAuswnTKs.mp3
+433:music/mp3/Telegram/Arijit_Singh_Lyrics_Status_Video_Kabira_Song_Arijit_Sin_HxaNDo42Vec.mp3
+434:music/mp3/Telegram/Arijit_Singh_Bairiya_Amitabh_B_goldiesohel_Gurfateh_Ang_gHa0YlssZis.mp3
+435:music/mp3/Telegram/Arijit_Singh_Deva_Deva_Film_Version_Brahmastra_Pritam_A_P69_fGqqa4A.mp3
+436:music/mp3/Telegram/Arijit_Singh_Rangdaari_Lyrical_Video_Lucknow_Central_Fa_XmX291QtPME.mp3
+437:music/mp3/Telegram/Baarish_Yaariyan_Lyrical_Video_Divya_Khosla_Kumar_Himan_Wvkdopf7R9U.mp3
+438:music/mp3/Telegram/Banjaara_Full_Song_with_LYRICS_Ek_Villain_Shraddha_Kapo_f_boMtebZY4.mp3
+439:music/mp3/Telegram/Rasiya Reprise(PagalWorldl).mp3
+440:music/mp3/Telegram/Chahun_Main_Ya_Naa_Slowed_Reverb_Lyrics_Aashiqui_2_Use_VYE6IVoYeKM.mp3
+441:music/mp3/Telegram/Chand_Chhupa_Badal_Mein_Lyrical_Video_Hum_Dil_De_Chuke_9a6UaCBEV6o.mp3
+442:music/mp3/Telegram/Chandu_Champion_Satyanaas_Kartik_Aaryan_Pritam_Arijit_S_yOO7_qlDSEw.mp3
+443:music/mp3/Telegram/Channa_Mereya_Lyric_Video_Ae_Dil_Hai_Mushkil_Karan_Joha_bzSTpdcs.mp3
+444:music/mp3/Telegram/Coldplay_Hymn_For_The_Weekend_Official_Video_YykjpeuMNEk_140.mp3
+445:music/mp3/Telegram/Desi_boys_by_Arijit_Singh_Unreleased_Version_Ulbs8R7X8J0_140.mp3
+446:music/mp3/Telegram/Dil_Ne_Yeh_Kaha_Love_Song_Alka_Y_Kumar_S_Udit_N_Dhadkan_YsnQWIehKf8.mp3
+447:music/mp3/Telegram/Hale_Dil_tujhko_Sunata_slowed_and_reverbed_murder_2_Emr_XnoDkNsgDzY.mp3
+448:music/mp3/Telegram/Iktara_Best_Audio_Song_Wake_Up_Sid_Ranbir_Kapoor_Konkon_pdB7v1z8PJk.mp3
+449:music/mp3/Telegram/Jaan_Nisaar_Lyrical_Kedarnath_Arijit_Singh_Sushant_Sing_vdbP_3o73qI.mp3
+450:music/mp3/Telegram/JAY_SEAN_RIDE_IT_TBsKCT4rsPw_140.mp3
+451:music/mp3/Telegram/Kaala_Jaadu_Freddy_Kartik_Aaryan_Pritam_Arijit_Singh_Ni_RHYKhnSf1is.mp3
+452:music/mp3/Telegram/Kabhi_Na_Kabhi_To_Miloge_Rock_Full_Song_HD_Shaapit_Boll_YXcpC8RJV9E.mp3
+453:music/mp3/Telegram/Khamoshiyan_Title_Track_Khamoshiyan_Arijit_Singh_Ali_Fa_KI9fXv2qQ40.mp3
+454:music/mp3/Telegram/Khuda_Jaane_Full_Song_Bachna_Ae_Haseeno_Ranbir_Kapoor_D_cmMiyZaSELo.mp3
+455:music/mp3/Telegram/Kitna_Pyara_Hai_Ye_chehra_Lyrics_Raaz_Udit_Narayan_Alka_oqx0oBsut7k.mp3
+456:music/mp3/Telegram/Kya_Mujhe_Pyar_Lyrical_Video_Song_Woh_Lamhe_Pritam_K_K_Gg6NMU4ivXM.mp3
+457:music/mp3/Telegram/Lutt_Putt_Gaya_Full_Video_Shah_Rukh_Khan_Taapsee_Rajkum_7CdpHATpXXU.mp3
+458:music/mp3/Telegram/Lyrical_Video_Dildara_Song_Ra_One_ShahRukh_Khan_Kareena_gQ5qVtoLMk4.mp3
+459:music/mp3/Telegram/Lyrical_Galliyan_Full_Song_with_Lyrics_Ek_Villain_Ankit_PL8X5gq9ZlQ.mp3
+460:music/mp3/Telegram/Lyrical_Labon_Ko_Bhool_Bhulaiyaa_Pritam_K_K_Akshay_Kum_FP2Cmc7zj4.mp3
+461:music/mp3/Telegram/LYRICAL_Latoo_Video_Song_Ghajini_Jiah_Khan_A_R_Rahman_ORiC_DAahuM.mp3
+462:music/mp3/Telegram/Main_Agar_Saamne_Raaz_Dino_Morea_Bipasha_Basu_Abhijeet_B2aHXbnu9dI.mp3
+463:music/mp3/Telegram/Mann_Mera_Official_Video_Table_No_21_Rajeev_Khandelwal_HP2zqQsrsyg.mp3
+464:music/mp3/Telegram/Mann_Mera_Video_Song_Table_No_21_Tina_Desai_Rajeev_Khan_SlHnlxDt2TQ.mp3
+465:music/mp3/Telegram/Mera_Mann_Falak_Shabir_Majharul_Mikat_Cover_5gDVa7D2S7M_140.mp3
+466:music/mp3/Telegram/Meri_Banogi_Kya_Rito_Riba_Prakriti_P_Karan_J_Rajat_Nagp_uoLC9u_M.mp3
+467:music/mp3/Telegram/OFFICIAL_Manwa_Laage_FULL_VIDEO_Song_Happy_New_Year_Sha_d8IT_16kA8M.mp3
+468:music/mp3/Telegram/Oonchi_Oonchi_Deewarein_Full_Video_Meezaan_Anaswara_Ari_FRdcZKWjJPc.mp3
+469:music/mp3/Telegram/Palat_Tera_Hero_Idhar_Hai_Full_Video_Song_Main_Tera_Her_9vkcYxbGdTE.mp3
+470:music/mp3/Telegram/Pani_Da_Rang_Full_Song_With_Lyrics_Vicky_Donor_Ayushman_2kgEc6oH9J0.mp3
+471:music/mp3/Telegram/Phir_Aur_Kya_Chahiye_Full_Video_Vicky_Sara_Arijit_Sachi_PR_mFnjFidk.mp3
+472:music/mp3/Telegram/Phir_Aur_Kya_Chahiye_Zara_Hatke_Zara_Bachke_Vicky_K_Sar_8sLS2knUa6Y.mp3
+473:music/mp3/Telegram/Pyaar_Hota_Kayi_Baar_Hai_Full_video_Tu_Jhoothi_Main_Mak_2yeRRm9AIxI.mp3
+474:music/mp3/Telegram/rahogi meri.mp3
+475:music/mp3/Telegram/Ruth_B._Dandelions_Lyrics__WgTMeICssXY_140.mp3
+476:music/mp3/Telegram/Saanson_Ko_From_Zid__nbwLp_9Pn-c_140.mp3
+477:music/mp3/Telegram/SAJDE_zfABYXP_NSA_140.mp3
+478:music/mp3/Telegram/Satranga_LYRICS_ANIMAL_Arijit_Singh_Siddharth_Garima_Ra_pToArr_wSLY.mp3
+479:music/mp3/Telegram/SRIKANTH_JEENA_SIKHA_DE_Audio_RAJKUMMAR_RAO_ALAYA_ARIJI_J8KeIcG4Pp4.mp3
+480:music/mp3/Telegram/Sun_Raha_Hai_Na_Tu_Reloaded_by_Ankit_Tiwari_T_Series_2b_JOu_72F8.mp3
+481:music/mp3/Telegram/Sunn_Raha_Hai_Na_Tu_Aashiqui_2_Full_Song_With_Lyrics_Ad_z3UHfi9vpbc.mp3
+482:music/mp3/Telegram/Sunn_Raha_Hai_Na_Tu_By_Shreya_Ghoshal_Full_Song_Aashiqu_omiswoHnoTk.mp3
+483:music/mp3/Telegram/Sunn_Raha_Hai_Rozana_Shreya_Ghoshal_T_Series_Mixtape_Bh_z65MTQQjgjg (1).mp3
+484:music/mp3/Telegram/Sunn_Raha_Hai_Rozana_Shreya_Ghoshal_T_Series_Mixtape_Bh_z65MTQQjgjg.mp3
+485:music/mp3/Telegram/Tennu_Le_Full_Song_Jai_Veeru_U_Eqj9pGbcM_140 (1).mp3
+486:music/mp3/Telegram/Tennu_Le_Full_Song_Jai_Veeru_U_Eqj9pGbcM_140.mp3
+487:music/mp3/Telegram/Tera_Mera_Rishta_-rePN9cxfaQ_140.mp3
+488:music/mp3/Telegram/Tere_Hawaale_Laal_Singh_Chaddha_Aamir_Kareena_Arijit_Sh_2CXSw1oPj3I.mp3
+489:music/mp3/Telegram/Tere_Hoke_Rahengay_Slowed_Reverb_Arijit_Singh_Bollywood_UZ57xbxI2qc.mp3
+490:music/mp3/Telegram/Tere_Pyaar_Mein_Full_Video_Tu_Jhoothi_Main_Makkaar_Ranb_IMg_UUJVpMo.mp3
+491:music/mp3/Telegram/Teri_Deewani_Kailash_Kher_Official_Video_Kailasa_Paresh_zZasH6qkn8M (1).mp3
+492:music/mp3/Telegram/Teri_Deewani_Kailash_Kher_Official_Video_Kailasa_Paresh_zZasH6qkn8M.mp3
+493:music/mp3/Telegram/Teri_Meri_Kahaani_Full_Song_Gabbar_Is_Back_Akshay_Kumar_59iKptytEaI.mp3
+494:music/mp3/Telegram/Teri_Saanson_Mein_xVeMV_qzbNg_140.mp3
+495:music/mp3/Telegram/Theme_of_SHIVA_3_Armonian_l0ua_FD5RO8_140.mp3
+496:music/mp3/Telegram/Toh_Phir_Aao_Sad_Mustafa_Zahid_Awarapan_Emraan_Hashmi_F_J_ciGRKON18.mp3
+497:music/mp3/Telegram/Toh_Phir_Aao_Musko_Song_Awarapan_Movie_Original_Full_4K_xqgLrjN5ZS8.mp3
+498:music/mp3/Telegram/Tu_Hi_Haqeeqat_Audio_Song_Tum_Mile_Emraan_Hashmi_Soha_A_BKbnmLH8UAo.mp3
+499:music/mp3/Telegram/Tu_Zaroori_Male__tXi15CFnFws_140.mp3
+500:music/mp3/Telegram/Tuhi_Meri_Shab_Hai_Full_Song_Gangster_A_Love_Story_2bVo3ID_UpU_140.mp3
+501:music/mp3/Telegram/Tumhe_Kitna_Pyaar_Karte_Full_Video_Varun_Janhvi_Mithoon_EpdsVO9pt9g.mp3
+502:music/mp3/Telegram/Ve_Kamleya_LYRICS_Arijit_Singh_Shreya_Ghoshal_Shadad_F_xXFbFUcic.mp3
+503:music/mp3/Telegram/Yeh_Tune_Kya_Kiya_Unreleased__RwQ3jeI66KQ_140.mp3
+504:music/mp3/Telegram/Zara_sa_Official_Video_Zara_Si_Dil_Mein_De_Jagah_Tu_Jan_E_SzJbafyMg.mp3
+505:music/Jaanam (From  Bad Newz )   Vishal Mishra.m4a
+506:music/Pink_Sweat_At_My_Worst_Official_Video__8CEJoCr_9UI_140.mp3
+playlist_end

@@ -1,0 +1,82 @@
+# mpd_host = "~/.config/mpd/socket"
+# mpd_port = "6600"
+
+# ## Connection to MPD
+# #mpd_host = "127.0.0.1"
+# #mpd_port = "6600"
+# #mpd_music_dir = "~/Music"
+
+# ## Look & feel
+# song_columns_list_format = "(7f)[cyan]{n} (20)[green]{a} (30)[yellow]{t} (5)[magenta]{l}"
+# playlist_display_mode = "columns"
+# browser_display_mode   = "columns"
+# search_engine_display_mode = "columns"
+# autocenter_mode = "yes"
+# centered_cursor = "yes"
+# cyclic_scrolling = "yes"
+# header_visibility = "yes"
+# statusbar_visibility = "yes"
+# titles_visibility = "yes"
+
+# ## Colors
+# colors_enabled = "yes"
+# main_window_color = "white"
+# header_window_color = "cyan"
+# volume_color = "green"
+# statusbar_color = "yellow"
+# progressbar_color = "cyan"
+# progressbar_elapsed_color = "green"
+# window_border_color = "blue"
+
+# ## Progress bar style
+# progressbar_look = "━━━"
+
+# ## Now playing format
+# now_playing_prefix = "▶ "
+# now_playing_suffix = " ◀"
+# song_list_format = " {%a - %t} | {%f} "
+
+# ## Extra
+# display_bitrate = "yes"
+# enable_window_title = "yes"
+
+
+
+
+## Connection to MPD
+mpd_host = "~/.config/mpd/socket"
+mpd_port = "6600"
+
+## Look & feel
+song_columns_list_format = "(30)[green]{a} (50)[yellow]{t} (10)[magenta]{l}"
+playlist_display_mode = "columns"
+browser_display_mode   = "columns"
+search_engine_display_mode = "columns"
+autocenter_mode = "yes"
+centered_cursor = "yes"
+cyclic_scrolling = "yes"
+header_visibility = "yes"
+statusbar_visibility = "yes"
+titles_visibility = "yes"
+
+## Colors
+colors_enabled = "yes"
+main_window_color = "white"
+header_window_color = "cyan"
+volume_color = "green"
+statusbar_color = "yellow"
+progressbar_color = "cyan"
+progressbar_elapsed_color = "green"
+window_border_color = "blue"
+
+## Progress bar style
+progressbar_look = "━━━"
+
+## Now playing format
+now_playing_prefix = "▶ "
+now_playing_suffix = " ◀"
+song_list_format = " {%a - %t} | {%f} "
+
+## Extra
+display_bitrate = "yes"
+enable_window_title = "yes"
