@@ -51,7 +51,7 @@ killall picom
 picom --config ~/.config/picom/picom.conf --experimental-backends -b
 picom &
 
-
+note that i used Nemo file manager if you use any other file manager make sure you changed picom conf file and comment out configurations set for Nemo otherwise picom will not work properly 
 
 
 ====================================================================================
